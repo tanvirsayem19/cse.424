@@ -5,8 +5,7 @@ Link to unlisted YouTube video:
 
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1arDtcN3_xaELQiwnYt5otQR8H3l4HddmL4Wv7bsBckw/edit?usp=sharing
-
+https://docs.google.com/presentation/d/1OA1J1w20iN7g01dwkGT-_zwbR5dkDzv56xt8Pqe1cVc/edit?usp=sharing
 
 Project title:
 Navigating Green Waves: A Pattern Recognition Analysis of Avocado Prices
